@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @enri-arn
 - 👀 I’m interested in UI and UX design
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning NestJS
 - 💞️ I’m looking to collaborate on many project
 - 📫 How to reach me: vieni a Cuneo! :)
 
